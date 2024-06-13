@@ -2,6 +2,12 @@
 
 I am a backend developer passionate about building robust and efficient solutions. I specialize in development with Java and Spring Boot. Here you will find some of the projects I have been working on that showcase my skills and knowledge.
 
+- 🔭 &nbsp;I’m currently working as a java developer. :wink:
+- 🌱 &nbsp;I’m currently learning AWS, Kubernetes.
+- 💬 &nbsp;Ask me about anything related to Java/Spring boot or Angular/TypeScript.
+- ⚡ In my free time, I like to continue learning to better specialize in Java.
+<!--- 👨‍💻 &nbsp;Read more about my projects at [NearNova.com](https://NearNova/Portafolio) -->
+
 <h3>Things I code with</h3>
 
 ![Java](https://img.shields.io/badge/Java-brightgreen.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,5 +30,5 @@ I am a backend developer passionate about building robust and efficient solution
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=alvarojj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Alvarojj's Github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=alvarojj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Alvarojj's Github Stats">     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarojj&layout=compact&theme=vision-friendly-dark)](https://github.com/alvarojj/github-readme-stats)
 
