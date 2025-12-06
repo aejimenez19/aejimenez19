@@ -1,7 +1,7 @@
 ## Hi, I'm Álvaro Jimenez 👋👨‍💻
 
 I am a backend developer passionate about building robust and efficient solutions. I specialize in development with Java and Spring Boot. Here you will find some of the projects I have been working on that showcase my skills and knowledge.
-[Portafolio personal]([https://ejemplo.com](https://www.aejimenez.online))
+[Portafolio personal](https://www.aejimenez.online)
 
 
 - 🔭 &nbsp;I’m currently working as a java developer. :wink:
